@@ -1,17 +1,17 @@
 Vows
 ====
 
-> 为node.js的异步BDD(Behaviour Driven Development[行为驱动开发][BDD])和连续测试
+> 为node.js的异步BDD([行为驱动开发(Behaviour Driven Development)][BDD])和连续测试
 
 #### <http://vowsjs.org> #
 
-introduction
+介绍
 ------------
 There are two reasons why we might want asynchronous testing. The first, and obvious reason is that node.js is asynchronous, and therefore our tests need to be. The second reason is to make test suites which target I/O libraries run much faster.
 
 _Vows_ is an experiment in making this possible, while adding a minimum of overhead.
 
-synopsis
+简介
 --------
 
     var vows = require('vows'),
@@ -42,28 +42,28 @@ Code coverage reporting is available if _instrumented_ code is detected.  Curren
     [...]
     $ make && sudo make install
 
-### instrumenting with jscoverage
+### 与jscoverage插装
 
     $ jscoverage myfile.js myfile-instrumented.js
     
-installation
+安装
 ------------
 
     $ npm install vows
 
-documentation
+文档
 -------------
 
 Head over to <http://vowsjs.org>
 
-run tests
+运行测试
 -------------
 
 ```
   npm test
 ```
 
-authors
+作者
 -------
 
 Alexis Sellier <<alexis@cloudhead.io>>, Charlie Robbins,
