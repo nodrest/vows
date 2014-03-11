@@ -27,12 +27,12 @@ _Vows_ is an experiment in making this possible, while adding a minimum of overh
         }
     });
 
-coverage reporting
+覆盖率报告
 ------------------
 Code coverage reporting is available if _instrumented_ code is detected.  Currently only _instrumentation_ via [node-jscoverage](https://github.com/visionmedia/node-jscoverage) is supported.  When _instrumented_ code is detected and coverage reporting is enabled using any of the `--cover-plain`, `--cover-html`, or `--cover-json` options a code coverage map is generated.
 
-### downloading and installing [node-jscoverage](https://github.com/visionmedia/node-jscoverage)
-[node-jscoverage](https://github.com/visionmedia/node-jscoverage) is a binary package that needs to be compiled from source:
+### 下载安装 [node-jscoverage](https://github.com/visionmedia/node-jscoverage)
+[node-jscoverage](https://github.com/visionmedia/node-jscoverage)需要从源码编译的二进制包:
 
     $ git clone https://github.com/visionmedia/node-jscoverage.git
     $ cd node-jscoverage/
