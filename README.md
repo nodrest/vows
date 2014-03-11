@@ -70,4 +70,4 @@ Alexis Sellier <<alexis@cloudhead.io>>, Charlie Robbins,
 
 *...and many others*
 
-[BDD](http://zh.wikipedia.org/wiki/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91)
+[BDD]:http://zh.wikipedia.org/wiki/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91
