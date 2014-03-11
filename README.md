@@ -1,7 +1,7 @@
 Vows
 ====
 
-> Asynchronous BDD & continuous integration for node.js
+> 为node.js的异步BDD(Behaviour Driven Development[行为驱动开发][BDD])和连续测试
 
 #### <http://vowsjs.org> #
 
@@ -70,3 +70,4 @@ Alexis Sellier <<alexis@cloudhead.io>>, Charlie Robbins,
 
 *...and many others*
 
+[BDD](http://zh.wikipedia.org/wiki/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91)
